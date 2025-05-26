@@ -1,0 +1,24 @@
+venv/
+.env
+.env.*
+
+# Кеші Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE та редактори
+.vscode/
+.idea/
+
+# Логи
+*.log
+
+# Системні файлич
+.DS_Store
+Thumbs.db
+
+# Інше
+*.sqlite3
+*.bak
+*.swp
